@@ -1,0 +1,21 @@
+# Discrete Dimensional Inheritance Model (DDIM)
+**A Stochastic Resolution to Hubble Tension and Galactic Rotation via Discrete Informational States**
+
+## Abstract
+The DDIM proposes that the universe is an emergent 3D Graft resulting from a sequence of discrete informational inheritance steps. By establishing a fixed **5.5% Probability of Finiteness (P_f)**, the model identifies a natural phase transition into a stable physical state, resolving the Hubble Tension and galactic rotation curves through the mechanism of **Informational Viscosity**.
+
+## Core Verification Metrics (1,000-Run Monte Carlo)
+This research utilizes stochastic simulations to verify the 5.5% anchor as a stable physical constant:
+
+* **Dimensional Stack Depth:** Converged on a global average mean of **19.14 dimensions**.
+* **Hubble Expansion Shift:** Simulated results produced a global average shift of **9.01%**, mirroring observed discrepancies in the Hubble Constant.
+* **Informational Viscosity:** Yielded a simulated viscosity of **0.3070 (30.7%)**, providing the "effective mass" required for galactic stability without Dark Matter particles.
+
+## Repository Contents
+* `/simulations`: Python-based Monte Carlo environments used to generate the 1,000-run datasets.
+* `/data`: CSV outputs of the 19.14 dimension convergence and 9.01% expansion shift trials.
+
+## Publication
+**Author:** Christopher D. Guinn  
+**Date:** March 2026  
+**Archive:** [Zenodo (DOI Pending)](#) *(Paste your link here)*
